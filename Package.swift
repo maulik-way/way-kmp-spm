@@ -12,7 +12,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Shared",
-            url: "https://github.com/maulik-way/way-kmp-spm/releases/download/v0.0.7/Shared.xcframework.zip",
+            url: "https://github.com/maulik-way/way-kmp-spm/releases/download/v0.0.8/Shared.xcframework.zip",
             checksum:"fc0a5df0b3a8d51aa535121cf65013c0fadd0b0bd2bda6029769d54c69279201")
     ]
 )
